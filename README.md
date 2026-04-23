@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sanoj 👋
 
-<!--
-**Sanojwick/Sanojwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an undergraduate at the University of Moratuwa interested in technology, problem solving, and building projects.
 
-Here are some ideas to get you started:
+## About me
+- Undergraduate student
+- Interested in software, intelligent systems, and embedded projects
+- Currently learning and improving my practical skills
+- Building university and personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C
+- Python
+- HTML, CSS, JavaScript
+- Git and GitHub
